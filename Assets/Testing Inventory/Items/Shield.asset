@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e32bd387c1b8a544ca4b5e3519217089, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4628393698351486819, guid: 67c21bde601a6d14e94dd23821105f25, type: 3}
+  type: 1
+  description: Don't forget protection!
+  attackBonus: 0
+  magicBonus: 0
+  defenseBonus: 10
+  fireResist: 0
+  wateResist: 0
+  electricResist: 0
+  poisionResist: 0
